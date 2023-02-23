@@ -6,3 +6,5 @@ That's my project results.
 |PLEFORM|NAME|ABOUT THAT|I18N|STATUS|PUBLIC|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |Discord|Miyabi|A bot that informs and helps Zenless Zone Zero.|한국어, English|Until the end of the service|FALSE|
+
+<!-- [My Discord Profile](https://discord.com/users/1010159742104113162) -->
