@@ -4,6 +4,6 @@
 ## [Project List](https://github.com/isnoa#project-list) And [Discord Profile](https://discord.com/users/1010159742104113162)
 Finding possibilities ahead of others in the easy things that seem common and insignificant.
 That's my project results.
-|PLEFORM|NAME|ABOUT THAT|STATUS|PUBLIC|
-|:------:|:---:|:---:|:---:|:---:|
-|Discord|Miyabi|A bot that informs and helps Zenless Zone Zero.|Until the end of the service|FALSE|
+|PLEFORM|NAME|ABOUT THAT|LINKS|STATUS|PUBLIC|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|Discord|Miyabi|A bot that informs and helps Zenless Zone Zero.|NOT YET|Until the end of the service|FALSE|
