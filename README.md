@@ -6,4 +6,4 @@ Finding possibilities ahead of others in the easy things that seem common and in
 That's my project results.
 |PLEFORM|NAME|ABOUT THAT|LINKS|STATUS|PUBLIC|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|Discord|Miyabi|A bot that informs and helps Zenless Zone Zero.|NOT YET|Until the end of the service|FALSE|
+|Discord|Miyabi#8869|A bot that informs and helps Zenless Zone Zero.|NOT YET|Until the end of the service|FALSE|
