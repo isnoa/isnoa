@@ -61,10 +61,11 @@
     · Zero-absence robotics club attendance
     · Persistent competition participation through school clubs
 + Qualification
-  ! Private Qualification:
-    · Registration Name: Robot Gifted Person
+  ! Robot Gifted Person (2017)
     · Registration Number: 2017-001744
     · Level: MASTER Level-Ⅱ
+  ! DIAT-Spreadsheet (2020)
+    · Qualification Number: DIAT-2020-008788
 
 ⚠️ Note: These technologies reflect self-directed learning/exploratory implementation  
           rather than production-ready expertise. They originate primarily from  
