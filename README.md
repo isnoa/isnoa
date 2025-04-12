@@ -67,6 +67,6 @@
     · Level: MASTER Level-Ⅱ
 
 ⚠️ Note: These technologies reflect self-directed learning/exploratory implementation  
-rather than production-ready expertise. They originate primarily from  
-autonomous study (≠ guaranteed expertise).
+          rather than production-ready expertise. They originate primarily from  
+          autonomous study (≠ guaranteed expertise).
 ```
