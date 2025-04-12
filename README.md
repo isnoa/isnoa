@@ -13,9 +13,9 @@
   ! TypeScript (Strict Mode)
   ! JavaScript (Dynamic Mode)
 + Frameworks:
-  ! NestJS (Enterprise Architecture)
-  ! Express (Minimalist REST)
-  ! Fastify (Low-Latency APIs)
+  ! NestJS (Opinionated Enterprise Framework)
+  ! Express (Minimalist Framework)
+  ! Fastify (High-performance Framework)
 + API Protocols:
   - REST (Resource-Oriented)
   - GraphQL (Query-Centric)
