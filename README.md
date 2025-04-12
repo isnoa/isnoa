@@ -5,7 +5,7 @@
 </p>
 
 
-# 🔧 Backend-Oriented Engineer
+# 🔧 Backend-Oriented Developer
 ```diff
 ## 🚀 Core Stack
 + Runtime: Node.js
