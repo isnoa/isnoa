@@ -66,6 +66,7 @@
     · Level: MASTER Level-Ⅱ
   ! DIAT-Spreadsheet (2020)
     · Qualification Number: DIAT-2020-008788
+    · Level: intermediate
 
 ⚠️ Note: These technologies reflect self-directed learning/exploratory implementation  
           rather than production-ready expertise. They originate primarily from  
