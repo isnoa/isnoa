@@ -38,20 +38,21 @@
   ! Pino (High-Performance)
   ! Winston (Multi-Transport)
 + Webhook Integration:
-  ! Real-time event notifications (Custom endpoints)
-  ! Automated payload processing (JSON/XML)
-  ! Secure signature verification (HMAC)
-  ! Error handling & retry mechanisms
+  ! 
+    · Real-time event notifications (Custom endpoints)
+    · Automated payload processing (JSON/XML)
+    · Secure signature verification (HMAC)
+    · Error handling & retry mechanisms
 
 ## ⚙️ Tooling
 + DevOps:
-  + Docker (Containerization)
-  - Jest (Test Suite)
+  ! Docker (Containerization)
+  ! Jest (Test Suite)
   ! GitHub (CI/CD Pipelines)
 + Development Tools:
-  - VSCode (Code Editor)
-  - DBeaver (Database IDE)
-  - Github Desktop (GUI-based Git)
+  ! VSCode (Code Editor)
+  ! DBeaver (Database IDE)
+  ! Github Desktop (GUI-based Git)
 ```
 
 ## 💡 Things I've Explored
