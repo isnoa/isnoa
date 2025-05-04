@@ -17,24 +17,31 @@
   ! Express (Minimalist Framework)
   ! Fastify (High-performance Framework)
 + API Protocols:
-  - REST (Resource-Oriented)
-  - GraphQL (Query-Centric)
+  ! REST (Resource-Oriented)
+  ! GraphQL (Query-Centric)
 
 ## 🗄️ Data Layer
 + SQL:
   ! PostgreSQL (Transactional)
   ! MySQL (Relational)
 + NoSQL:
-  - MongoDB (Document Model)
+  ! MongoDB (Document Model)
++ In-Memory:
+  ! Redis (Low-Latency Cache & Real-Time Pub/Sub)
 + ORM/ODM:
-  ! Prisma (Type-Safe SQL)
-  ! TypeORM (TS-First)
-  - Mongoose (MongoDB Modeling)
+  ! Prisma (Type-Safe Query Builder)
+  ! TypeORM (Decorator-Driven Models)
+  ! Mongoose (MongoDB ODM with Schema Validation)
 
 ## 📊 Monitoring
 + Logging:
   ! Pino (High-Performance)
   ! Winston (Multi-Transport)
++ Webhook Integration:
+  ! Real-time event notifications (Custom endpoints)
+  ! Automated payload processing (JSON/XML)
+  ! Secure signature verification (HMAC)
+  ! Error handling & retry mechanisms
 
 ## ⚙️ Tooling
 + DevOps:
@@ -52,8 +59,8 @@
 + Languages & Frameworks:
   ! Discord.js (v11~v14 · Multi-year production-grade bot development  
     · Complex event handling/custom APIs · 6.1k+ user-scale deployments)
-  - Java (Syntax/OOP learning · No production project experience)
-  - Python (Scripting · REST API experiments)
+  ! Java (Syntax/OOP learning · No production project experience)
+  ! Python (Scripting · REST API experiments)
 + Visual Programming Languages:
   ! Entry (2013-2019 · Block-based educational platform  
     · 2017 Changwon National Intelligent Robot Competition  
