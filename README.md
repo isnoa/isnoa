@@ -8,51 +8,71 @@
 # 🔧 Backend-Oriented Developer
 ```diff
 ## 🚀 Core Stack
-+ Runtime: Node.js
-+ Core:
-  ! TypeScript (Strict Mode)
-  ! JavaScript (Dynamic Mode)
-+ Frameworks:
-  ! NestJS (Opinionated Enterprise Framework)
-  ! Express (Minimalist Framework)
-  ! Fastify (High-performance Framework)
-+ API Protocols:
-  ! REST (Resource-Oriented)
-  ! GraphQL (Query-Centric)
++ Runtime
+  └─ Node.js
+
++ Languages
+  ├─ TypeScript
+  └─ JavaScript
+
++ Frameworks
+  ├─ NestJS
+  ├─ Express
+  └─ Fastify
+
++ API Protocols
+  ├─ REST
+  └─ GraphQL
 
 ## 🗄️ Data Layer
-+ SQL:
-  ! PostgreSQL (Transactional)
-  ! MySQL (Relational)
-+ NoSQL:
-  ! MongoDB (Document Model)
-+ In-Memory:
-  ! Redis (Low-Latency Cache & Real-Time Pub/Sub)
-+ ORM/ODM:
-  ! Prisma (Type-Safe Query Builder)
-  ! TypeORM (Decorator-Driven Models)
-  ! Mongoose (MongoDB ODM with Schema Validation)
++ SQL
+  ├─ PostgreSQL
+  └─ MySQL
+
++ NoSQL
+  └─ MongoDB
+
++ In-Memory
+  └─ Redis
+
++ ORM/ODM
+  ├─ Prisma
+  ├─ TypeORM
+  └─ Mongoose
 
 ## 📊 Monitoring
-+ Logging:
-  ! Pino (High-Performance)
-  ! Winston (Multi-Transport)
-+ Webhook Integration:
-  ! 
-    · Real-time event notifications (Custom endpoints)
-    · Automated payload processing (JSON/XML)
-    · Secure signature verification (HMAC)
-    · Error handling & retry mechanisms
++ Logging
+  ├─ Pino
+  └─ Winston
+
++ Webhook
+  ├─ Slack
+  ├─ Discord
+  ├─ Notion
+  └─ Github
 
 ## ⚙️ Tooling
-+ DevOps:
-  ! Docker (Containerization)
-  ! Jest (Test Suite)
-  ! GitHub (CI/CD Pipelines)
-+ Development Tools:
-  ! VSCode (Code Editor)
-  ! DBeaver (Database IDE)
-  ! Github Desktop (GUI-based Git)
++ DevOps
+  ├─ Docker
+  ├─ Jest
+  └─ GitHub
+
++ Development Tools
+  ├─ Visual Studio Code
+  ├─ IntelliJ IDEA
+  ├─ DBeaver
+  ├─ GitHub Desktop
+  └─ HTTP Toolkit
+
++ Package Managers
+  ├─ npm
+  └─ pnpm
+
++ Utilities
+  ├─ Git
+  ├─ Swagger
+  ├─ Passport
+  └─ Prettier
 ```
 
 ## 💡 Things I've Explored
