@@ -4,99 +4,107 @@
   <img src="attachment:image.png" height="120">
 </p>
 
+<h1 align="center">Hi, I'm <b>isnoa</b>! 👋</h1>
+<p align="center"><i>Backend-Oriented Developer | API Architect | Automation Enthusiast</i></p>
 
-# 🔧 Backend-Oriented Developer
-```diff
-## 🚀 Core Stack
-+ Runtime
-  └─ Node.js
+---
 
-+ Languages
-  ├─ TypeScript
-  └─ JavaScript
+## 🧩 Tendency
 
-+ Frameworks
-  ├─ NestJS
-  ├─ Express
-  └─ Fastify
+- API와 백엔드 자동화에 높은 관심이 있음
+- 직접 탐구하고 실험하는 것을 선호함
+- 새로운 기술 습득과 오픈 소스 기여를 즐김
 
-+ API Protocols
-  ├─ REST
-  └─ GraphQL
+---
 
-## 🗄️ Data Layer
-+ SQL
-  ├─ PostgreSQL
-  └─ MySQL
+## 🔧 Tech Stack & Tools
 
-+ NoSQL
-  └─ MongoDB
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <td>TypeScript, JavaScript</td>
+    <th>Runtime</th>
+    <td>Node.js</td>
+  </tr>
+  <tr>
+    <th>Framework</th>
+    <td>NestJS, Express, Fastify</td>
+    <th>Protocol</th>
+    <td>REST, GraphQL</td>
+  </tr>
+  <tr>
+    <th>SQL</th>
+    <td>PostgreSQL, MySQL</td>
+    <th>NoSQL</th>
+    <td>MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <th>ORM/ODM</th>
+    <td>Prisma, TypeORM, Mongoose</td>
+    <th>PkgMgr</th>
+    <td>Npm, Pnpm, NVM</td>
+  </tr>
+  <tr>
+    <th>DevOps & CI/CD</th>
+    <td>Docker, GitHub, Jest</td>
+    <th>Process Manager</th>
+    <td>PM2, Nodemon</td>
+  </tr>
+  <tr>
+    <th>Logging</th>
+    <td>Pino, Winston</td>
+    <th>Monitoring</th>
+    <td>Sentry, Better Stack</td>
+  </tr>
+  <tr>
+    <th>Cloud</th>
+    <td>AWS, GCP</td>
+    <th>Deploy</th>
+    <td>Vercel, Render</td>
+  </tr>
+  <tr>
+    <th>Docs</th>
+    <td>Swagger</td>
+    <th>Tools</th>
+    <td>VSCode, DBeaver, HTTP Toolkit, Git, Prettier</td>
+  </tr>
+</table>
 
-+ In-Memory
-  └─ Redis
+---
 
-+ ORM/ODM
-  ├─ Prisma
-  ├─ TypeORM
-  └─ Mongoose
+## 🏆 Achievements & Experience
 
-## 📊 Monitoring
-+ Logging
-  ├─ Pino
-  └─ Winston
+### 🏫 초등학생 시절
 
-+ Webhook
-  ├─ Slack
-  ├─ Discord
-  ├─ Notion
-  └─ Github
+- <b>🤖 로봇 동아리</b>  
+  &nbsp;&nbsp;&nbsp;• 초등학교 1학년부터 6학년까지 6년간 매주 <b>목요일</b> 개근  
+- <b>🏅 2017 창원 전국 지능로봇경진대회</b>  
+  &nbsp;&nbsp;&nbsp;• Survival Ball Pass 초등부 <b>동상</b>  
+- <b>🎖️ 자격 및 인증</b>  
+  &nbsp;&nbsp;&nbsp;• 2017 <b>로봇 영재</b> (MASTER Level-Ⅱ, 등록번호: 2017-001744)  
+  &nbsp;&nbsp;&nbsp;• 2020 <b>DIAT-스프레드시트</b> (중급, 자격번호: DIAT-2020-008788)  
 
-## ⚙️ Tooling
-+ DevOps
-  ├─ Docker
-  ├─ Jest
-  └─ GitHub
+---
 
-+ Development Tools
-  ├─ Visual Studio Code
-  ├─ IntelliJ IDEA
-  ├─ DBeaver
-  ├─ GitHub Desktop
-  └─ HTTP Toolkit
+## 💻 Projects
 
-+ Package Managers
-  ├─ npm
-  └─ pnpm
+- <b>Discord.js 기반 대형/복잡 봇 개발</b>  
+  &nbsp;&nbsp;&nbsp;• v11~v14, 실제 서비스 및 6.1k+ 사용자 규모 운영  
+  &nbsp;&nbsp;&nbsp;• 각종 이벤트 핸들링, 커스텀 API 설계 및 배포  
 
-+ Utilities
-  ├─ Git
-  ├─ Swagger
-  ├─ Passport
-  └─ Prettier
-```
+---
 
-## 💡 Things I've Explored
-```diff
-+ Languages & Frameworks:
-  ! Discord.js (v11~v14 · Multi-year production-grade bot development  
-    · Complex event handling/custom APIs · 6.1k+ user-scale deployments)
-  ! Java (Syntax/OOP learning · No production project experience)
-  ! Python (Scripting · REST API experiments)
-+ Visual Programming Languages:
-  ! Entry (2013-2019 · Block-based educational platform  
-    · 2017 Changwon National Intelligent Robot Competition  
-      [Survival Ball Pass - Elementary Division] Bronze Medalist  
-    · Zero-absence robotics club attendance
-    · Persistent competition participation through school clubs
-+ Qualification
-  ! Robot Gifted Person (2017)
-    · Registration Number: 2017-001744
-    · Level: MASTER Level-Ⅱ
-  ! DIAT-Spreadsheet (2020)
-    · Qualification Number: DIAT-2020-008788
-    · Level: Intermediate
+## 💡 Learning & Experience
 
-⚠️ Note: These technologies reflect self-directed learning/exploratory implementation  
-          rather than production-ready expertise. They originate primarily from  
-          autonomous study (≠ guaranteed expertise).
-```
+- <b>Discord.js</b> (v11~v14, 다년간 실제 서비스 봇 개발, 6.1k+ 사용자 규모 운영 경험)
+- <b>Java</b> (문법/OOP 학습, 프로덕션 경험 없음)
+- <b>Python</b> (스크립트, REST API 실험)
+- <b>Entry</b> (블록 코딩, 각종 로봇 대회 및 동아리 활동)
+
+---
+
+## 📫 Contact
+
+- 🌐 <b>Website</b>: [https://isnoa.me](https://isnoa.me)
+- 💬 <b>Discord</b>: [@isnoa](https://discord.com/users/1010159742104113162)
+- ✉️ <b>Email</b>: [transpain@seishun.work](mailto:transpain@seishun.work)
