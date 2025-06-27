@@ -42,31 +42,35 @@
     <th>ORM/ODM</th>
     <td>Prisma, TypeORM, Mongoose</td>
     <th>PkgMgr</th>
-    <td>Npm, Pnpm, NVM</td>
+    <td>npm, yarn, pnpm</td>
   </tr>
   <tr>
-    <th>DevOps</th>
-    <td>Docker, GitHub, Jest</td>
+    <th>Version Manager</th>
+    <td>nvm, fnm</td>
     <th>Process Manager</th>
     <td>PM2, Nodemon</td>
   </tr>
   <tr>
+    <th>DevOps</th>
+    <td>Docker, GitHub, Jest</td>
     <th>Logging</th>
     <td>Pino, Winston</td>
+  </tr>
+  <tr>
     <th>Monitoring</th>
     <td>Sentry, Better Stack</td>
-  </tr>
-  <tr>
     <th>Cloud</th>
     <td>AWS, GCP</td>
-    <th>Deploy</th>
-    <td>Vercel, Render</td>
   </tr>
   <tr>
+    <th>Deploy</th>
+    <td>Vercel, Render</td>
     <th>Docs</th>
     <td>Swagger</td>
+  </tr>
+  <tr>
     <th>Tools</th>
-    <td>VSCode, DBeaver, HTTP Toolkit, Git, Prettier</td>
+    <td colspan="3">VSCode, DBeaver, HTTP Toolkit, Git, Prettier</td>
   </tr>
 </table>
 
