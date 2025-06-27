@@ -45,7 +45,7 @@
     <td>Npm, Pnpm, NVM</td>
   </tr>
   <tr>
-    <th>DevOps & CI/CD</th>
+    <th>DevOps</th>
     <td>Docker, GitHub, Jest</td>
     <th>Process Manager</th>
     <td>PM2, Nodemon</td>
