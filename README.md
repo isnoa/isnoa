@@ -23,12 +23,12 @@
   <tr>
     <th>Language</th>
     <td>TypeScript, JavaScript</td>
-    <th>Runtime</th>
-    <td>Node.js</td>
-  </tr>
-  <tr>
     <th>Framework</th>
     <td>NestJS, Express, Fastify</td>
+  </tr>
+  <tr>
+    <th>Runtime</th>
+    <td>Node.js</td>
     <th>Protocol</th>
     <td>REST, GraphQL</td>
   </tr>
@@ -52,21 +52,27 @@
   </tr>
   <tr>
     <th>DevOps</th>
-    <td>Docker, GitHub, Jest</td>
+    <td>Docker, GitHub Actions</td>
+    <th>Testing</th>
+    <td>Jest</td>
+  </tr>
+  <tr>
     <th>Logging</th>
     <td>Pino, Winston</td>
-  </tr>
-  <tr>
     <th>Monitoring</th>
     <td>Sentry, Better Stack</td>
-    <th>Cloud</th>
-    <td>AWS, GCP</td>
   </tr>
   <tr>
+    <th>Cloud</th>
+    <td>AWS, GCP</td>
     <th>Deploy</th>
     <td>Vercel, Render</td>
+  </tr>
+  <tr>
     <th>Docs</th>
     <td>Swagger</td>
+    <th></th>
+    <td></td>
   </tr>
   <tr>
     <th>Tools</th>
