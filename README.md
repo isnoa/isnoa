@@ -117,4 +117,4 @@
 
 - 🌐 <b>Website</b>: [https://isnoa.me](https://isnoa.me)
 - 💬 <b>Discord</b>: [@isnoa](https://discord.com/users/1010159742104113162)
-- ✉️ <b>Email</b>: [transpain@seishun.work](mailto:transpain@seishun.work)
+- ✉️ <b>Email</b>: [isnoa3166@gmail.com](mailto:isnoa3166@gmail.com)
