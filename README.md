@@ -82,37 +82,6 @@
 
 ---
 
-## 🏆 Achievements & Experience
-
-### 🏫 Elementary School Years
-
-- <b>🤖 로봇 동아리</b>  
-  &nbsp;&nbsp;&nbsp;• 초등학교 1학년부터 6학년까지 6년간 매주 <b>목요일</b> 개근  
-- <b>🏅 2017 창원 전국 지능로봇경진대회</b>  
-  &nbsp;&nbsp;&nbsp;• Survival Ball Pass 초등부 <b>동상</b>  
-- <b>🎖️ 자격 및 인증</b>  
-  &nbsp;&nbsp;&nbsp;• 2017 <b>로봇 영재</b> (MASTER Level-Ⅱ, 등록번호: 2017-001744)  
-  &nbsp;&nbsp;&nbsp;• 2020 <b>DIAT-스프레드시트</b> (중급, 자격번호: DIAT-2020-008788)  
-
----
-
-## 💻 Projects
-
-- <b>Discord.js 기반 대형/복잡 봇 개발</b>  
-  &nbsp;&nbsp;&nbsp;• v11~v14, 실제 서비스 및 6.1k+ 사용자 규모 운영  
-  &nbsp;&nbsp;&nbsp;• 각종 이벤트 핸들링, 커스텀 API 설계 및 배포  
-
----
-
-## 💡 Learning & Experience
-
-- <b>Discord.js</b> (v11~v14, 다년간 실제 서비스 봇 개발, 6.1k+ 사용자 규모 운영 경험)
-- <b>Java</b> (문법/OOP 학습, 프로덕션 경험 없음)
-- <b>Python</b> (스크립트, REST API 실험)
-- <b>Entry</b> (블록 코딩, 각종 로봇 대회 및 동아리 활동)
-
----
-
 ## 📫 Contact
 
 - 🌐 <b>Website</b>: [https://isnoa.me](https://isnoa.me)
