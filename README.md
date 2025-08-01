@@ -5,15 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <b>isnoa</b>! 👋</h1>
-<p align="center"><i>Backend-Oriented Developer | API Architect | Automation Enthusiast</i></p>
-
----
-
-## 🧩 Tendency
-
-- API와 백엔드 자동화에 높은 관심이 있음
-- 직접 탐구하고 실험하는 것을 선호함
-- 새로운 기술 습득과 오픈 소스 기여를 즐김
+<p align="center"><i>Backend-Oriented Developer | API Architect</i></p>
 
 ---
 
